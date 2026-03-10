@@ -8,4 +8,4 @@
 - [Boj.1717 - 집합의 표현](https://www.acmicpc.net/problem/1717)
 
 #### 3/10 (화) - 최소신장트리
-- - [Boj.9372 - 상근이의 여행](https://www.acmicpc.net/problem/9372)
+- [Boj.9372 - 상근이의 여행](https://www.acmicpc.net/problem/9372)
