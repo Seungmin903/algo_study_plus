@@ -1,6 +1,12 @@
-//시간: 80 ms
-//메모리 : 12348 kb
-//전략 : kruskal
+//**시간**: 80ms
+//**메모리** :12348KB
+//**전략** : kruskal
+//
+//1. 모든 간선 입력받기
+//2. 만약 같은 그룹이 아니면(사이클 발생 x) 결과에 가중치 더해줌
+//3. 최대 간선수라면 break
+//4. 소수 둘째자리까지 출력
+
 
 import java.io.BufferedReader;
 import java.io.IOException;
