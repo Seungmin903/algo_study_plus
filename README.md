@@ -15,3 +15,6 @@
 
 #### 3/11 (수) - 최소신장트리(Prim)
 - [Boj.4386 - 별자리 만들기](https://www.acmicpc.net/problem/4386)
+
+#### 3/12 (목) - 최단경로(Dijkstra)
+- [Boj.18352 - 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
