@@ -5,7 +5,8 @@
 - 제출 경로 : 문제가 있는 사이트 폴더/문제번호/파일이름_이니셜.java <br>
 커밋 메시지 : [이름] [날짜] [스터디 제출] <br><br>
 
-## 3월 2주차 (3/9 ~ 3/15)
+<details>
+  <summary>## 3월 2주차 (3/9 ~ 3/15)</summary> 
 #### 3/9 (월) - 서로소 집합
 - [Boj.1717 - 집합의 표현](https://www.acmicpc.net/problem/1717)
 
@@ -21,3 +22,5 @@
 
 #### 3/13 (금) - 최단경로(Dijkstra)
 - [Boj.9370 - 미확인 도착지](https://www.acmicpc.net/problem/9370)
+
+</details>
