@@ -23,12 +23,18 @@
 
 #### 3/13 (금) - 최단경로(Dijkstra)
 - [Boj.9370 - 미확인 도착지](https://www.acmicpc.net/problem/9370)
+
+#### 과평대비 문제 풀이
+- [Boj.2564 - 경비원](https://www.acmicpc.net/problem/2564)
+- [Boj.2578 - 빙고](https://www.acmicpc.net/problem/2578)
+- [SWEA.5215 - 햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT)
 </br>
 </details>
 
 ## 3월 3주차 (3/16 ~ 3/22)
 
-#### 3/16 (월) - 
+#### 3/16 (월) - BFS 복습
+- [Boj.7562 - 나이트의 이동](https://www.acmicpc.net/problem/7562)
 
 #### 3/17 (화) -
 
