@@ -37,9 +37,10 @@
 - [Boj.7562 - 나이트의 이동](https://www.acmicpc.net/problem/7562)
 
 #### 3/17 (화) - DFS 복습
-- [Boj.1245 - 농장관](https://www.acmicpc.net/problem/1245)
+- [Boj.1245 - 농장 관리](https://www.acmicpc.net/problem/1245)
 
-#### 3/18 (수) - 
+#### 3/18 (수) - MST 복습
+- [Boj.1245 - 네트워크 연결](https://www.acmicpc.net/problem/1922)
 
 #### 3/19 (목) - 
 
