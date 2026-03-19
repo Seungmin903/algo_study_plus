@@ -42,6 +42,7 @@
 #### 3/18 (수) - MST 복습
 - [Boj.1245 - 네트워크 연결](https://www.acmicpc.net/problem/1922)
 
-#### 3/19 (목) - 
+#### 3/19 (목) - A형 준비
+- [Boj.2805 - 나무 자르기](https://www.acmicpc.net/problem/2805)
 
 #### 3/20 (금) - 
