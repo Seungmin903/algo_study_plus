@@ -9,41 +9,64 @@
   <summary><h3> 3월 2주차 (3/9 ~ 3/15) </h3></summary> 
   
 #### 3/9 (월) - 서로소 집합
-- [Boj.1717 - 집합의 표현](https://www.acmicpc.net/problem/1717)
+- [BOJ.1717 - 집합의 표현](https://www.acmicpc.net/problem/1717)
 
 #### 3/10 (화) - 최소신장트리 (Kruskal)
-- [Boj.9372 - 상근이의 여행](https://www.acmicpc.net/problem/9372)
-- [Boj.4386 - 별자리 만들기](https://www.acmicpc.net/problem/4386)
+- [BOJ.9372 - 상근이의 여행](https://www.acmicpc.net/problem/9372)
+- [BOJ.4386 - 별자리 만들기](https://www.acmicpc.net/problem/4386)
 
 #### 3/11 (수) - 최소신장트리(Prim)
-- [Boj.4386 - 별자리 만들기](https://www.acmicpc.net/problem/4386)
+- [BOJ.4386 - 별자리 만들기](https://www.acmicpc.net/problem/4386)
 
 #### 3/12 (목) - 최단경로(Dijkstra)
-- [Boj.18352 - 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
+- [BOJ.18352 - 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
 
 #### 3/13 (금) - 최단경로(Dijkstra)
-- [Boj.9370 - 미확인 도착지](https://www.acmicpc.net/problem/9370)
+- [BOJ.9370 - 미확인 도착지](https://www.acmicpc.net/problem/9370)
 
 #### 과평대비 문제 풀이
-- [Boj.2564 - 경비원](https://www.acmicpc.net/problem/2564)
-- [Boj.2578 - 빙고](https://www.acmicpc.net/problem/2578)
+- [BOJ.2564 - 경비원](https://www.acmicpc.net/problem/2564)
+- [BOJ.2578 - 빙고](https://www.acmicpc.net/problem/2578)
 - [SWEA.5215 - 햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT)
 </br>
 </details>
 
-## 3월 3주차 (3/16 ~ 3/22)
+<details>
+  <summary><h3> 3월 3주차 (3/16 ~ 3/22) </h3></summary> 
 
 #### 3/16 (월) - BFS 복습
-- [Boj.7562 - 나이트의 이동](https://www.acmicpc.net/problem/7562)
+- [BOJ.7562 - 나이트의 이동](https://www.acmicpc.net/problem/7562)
 
 #### 3/17 (화) - DFS 복습
-- [Boj.1245 - 농장 관리](https://www.acmicpc.net/problem/1245)
+- [BOJ.1245 - 농장 관리](https://www.acmicpc.net/problem/1245)
 
 #### 3/18 (수) - MST 복습
-- [Boj.1245 - 네트워크 연결](https://www.acmicpc.net/problem/1922)
+- [BOJ.1245 - 네트워크 연결](https://www.acmicpc.net/problem/1922)
 
 #### 3/19 (목) - A형 준비
-- [Boj.2805 - 나무 자르기](https://www.acmicpc.net/problem/2805)
+- [BOJ.2805 - 나무 자르기](https://www.acmicpc.net/problem/2805)
 
 #### 3/20 (금) - A형 준비
-- [Boj.14567 - 선수 과목](https://www.acmicpc.net/problem/14567)
+- [BOJ.14567 - 선수 과목](https://www.acmicpc.net/problem/14567)
+</br>
+</details>
+
+<details>
+  <summary><h3> 3월 4주차 (3/23 ~ 3/29) </h3></summary> 
+
+#### 3/23 (월) - 
+- 
+
+#### 3/24 (화) - 
+- 
+
+#### 3/25 (수) - 
+- 
+
+#### 3/26 (목) - 
+- 
+
+#### 3/27 (금) - 
+- 
+</br>
+</details>
