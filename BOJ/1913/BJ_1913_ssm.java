@@ -22,6 +22,7 @@ public class BJ_1913_ssm {
 		
 		int num = N*N;
 		int nx =0, ny =0;
+		
 		while(num > 0) {
 			arr[nx][ny] = num;
 			if(num == goalNum) {
@@ -41,6 +42,7 @@ public class BJ_1913_ssm {
 			}
 			sb.append("\n");
 		}
+		
 		sb.append(gX).append(" ").append(gY);
 		System.out.println(sb.toString());
 	}
