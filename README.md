@@ -67,8 +67,9 @@
 #### 3/30 (월) - 위상정렬 기초
 - [BOJ.2252 - 줄 세우기](https://www.acmicpc.net/problem/2252)
 
-#### 4/1 (수) - 
-- 
+#### 4/1 (수) - DFS/BFS
+- [BOJ.10026 - 적록색약](https://www.acmicpc.net/problem/10026)
+- [BOJ.11724 - 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
 
 #### 4/2 (목) - 
 - 
