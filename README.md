@@ -72,7 +72,7 @@
 - [BOJ.11724 - 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
 
 #### 4/2 (목) - 
-- 
+- [SWEA.1249 - [S/W 문제해결 응용] 4일차 - 보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD&&)
 
 #### 4/3 (금) - 
 - 
