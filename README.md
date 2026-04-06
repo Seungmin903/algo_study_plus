@@ -73,13 +73,26 @@
 
 #### 4/2 (목) - 
 - [SWEA.1249 - [S/W 문제해결 응용] 4일차 - 보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD&&)
-
-#### 4/3 (금) - 
-- 
+   
  </br>
 </details> 
 
+<details>
+  <summary><h3> 4월 2주차 (4/6 ~ 4/12) </h3></summary>
 
+#### 4/6 (월) - A형 기출
+- [SWEA.2805 - 나무자르기](https://www.acmicpc.net/problem/2805)
+#### 4/7 (화) - 
+- 
+#### 4/8 (수) - 
+- 
+#### 4/9 (목) - 
+-
+#### 4/10 (금) - 
+- 
+   
+ </br>
+</details> 
 
 
 
