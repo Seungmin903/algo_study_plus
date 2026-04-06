@@ -87,7 +87,7 @@
   <summary><h3> 4월 2주차 (4/6 ~ 4/12) </h3></summary>
 
 #### 4/6 (월) - A형 기출
-- [SWEA.2805 - 나무자르기](https://www.acmicpc.net/problem/2805)
+- [BOJ.2805 - 나무자르기](https://www.acmicpc.net/problem/2805)
 #### 4/7 (화) - 
 - 
 #### 4/8 (수) - 
