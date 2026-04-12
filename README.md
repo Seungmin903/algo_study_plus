@@ -88,14 +88,8 @@
 
 #### 4/6 (월) - A형 기출
 - [BOJ.2805 - 나무자르기](https://www.acmicpc.net/problem/2805)
-#### 4/7 (화) - 
-- 
-#### 4/8 (수) - 
-- 
-#### 4/9 (목) - 
--
-#### 4/10 (금) - 
-- 
+#### 4/7 (화) ~ 4/12 (일) - 과목평가 대비
+&nbsp;&nbsp;&nbsp;&nbsp; <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/40c8faa6-bc79-4e15-8421-62c7cfef4972" />
    
  </br>
 </details> 
