@@ -96,7 +96,7 @@
 
 
 <details>
-  <summary><h3> 4월 1주차 (3/30 ~ 4/3) </h3></summary>
+  <summary><h3> 4월 3주차 (4/13 ~ 4/19) </h3></summary>
 
 #### 4/13 (월) - A형 기출
 - [SWEA. 1249. [S/W 문제해결 응용] 4일차 - 보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)
