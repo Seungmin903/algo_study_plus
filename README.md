@@ -95,7 +95,21 @@
 </details> 
 
 
+<details>
+  <summary><h3> 4월 1주차 (3/30 ~ 4/3) </h3></summary>
 
+#### 4/13 (월) - A형 기출
+- [SWEA. 1249. [S/W 문제해결 응용] 4일차 - 보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)
+
+#### 4/15 (수) - A형 기출
+- [CODEFORCE. A - 사과 먹기 게임](https://codeforces.com/gym/670313/problem/A)
+- [CODEFORCE. F  - 최대 부분 수열 게임](https://codeforces.com/gym/670313/problem/F)
+
+#### 4/2 (목) - 
+- 
+   
+ </br>
+</details> 
 
 
 
